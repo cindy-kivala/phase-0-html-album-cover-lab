@@ -32,6 +32,15 @@ h1 {
   margin-bottom: 2px;
 }
 
+.song-title {
+  font-size: 2.5em;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  margin-bottom: 10px;
+  color: black; /* or white if your box is dark */
+}
+
+
 h2 {
   font-size: 5.1em;
   line-height: 1em;
